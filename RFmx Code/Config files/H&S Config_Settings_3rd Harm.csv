@@ -1,0 +1,5 @@
+Active?,Freq Range Mhz,Mixer level Offset(dB),RBW(Khz),IF PWR Offset(dB),IF Filter(Khz),Span(Khz)
+yes,10|399.99999,-15,0.01,5,300,5
+yes,400|599.99999,-15,0.01,5,300,5
+yes,600|799.99999,-10,0.01,5,300,5
+yes,800|2650,-15,0.01,5,300,5
